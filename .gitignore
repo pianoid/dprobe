@@ -1,0 +1,5 @@
+dprobe.ncb
+/bin/x86/debug/
+/bin/x86/release/
+/bin/x64/debug/
+/bin/x64/release/
